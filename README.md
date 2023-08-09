@@ -1,7 +1,7 @@
 # "Bar menu" / "Барное меню"
-An online service for publishing recipes for your favorite cocktails, with the ability to subscribe to publications of other users, add your favorite cocktails to your Favorites, and also download a summary list of the ingredients of your favorite cocktails, which will be useful in the store.
+Service for storing, publishing and managing the recipes of your favorite cocktails.
 ***********************
-Онлайн-сервис для публикации рецептов своих любимых коктейлей, с возможностью подписываться на публикации других пользователей, добавлять понравившиеся коктейли в "Избранное", а также скачать сводный список ингредиентов понравившихся коктейлей, который пригодится в магазине.
+Сервис для хранения, публикации и управления рецептами своих любимых коктейлей.
 
 ### Stack / Стек:
 * Python
